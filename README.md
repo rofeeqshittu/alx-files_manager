@@ -8,25 +8,25 @@ This project is a summary of key back-end concepts, including authentication, No
 
 ## Learning Objectives
 
-By the end of this project, you should be able to explain the following without external help:
+By the end of this project, I should be able to explain the following without external help:
 
 - How to create an API with Express.js.
 - How to authenticate users.
 - How to store data in MongoDB.
 - How to store temporary data in Redis.
-- How to set up and use a background worker.
+- How to setup and use a background worker.
 
 ---
 
 ## Resources
 
-- [Node.js Getting Started](https://nodejs.org)
-- [Process API Documentation](https://nodejs.org/api/process.html)
-- [Express.js Getting Started](https://expressjs.com)
+- [Node.js Getting Started](https://nodejs.org/en/learn/getting-started/introduction-to-nodejs)
+- [Process API Documentation](https://node.readthedocs.io/en/latest/api/process/)
+- [Express.js Getting Started](https://expressjs.com/en/starter/installing.html)
 - [Mocha Documentation](https://mochajs.org)
-- [Nodemon Documentation](https://nodemon.io)
-- [MongoDB Documentation](https://www.mongodb.com)
-- [Redis Documentation](https://redis.io)
+- [Nodemon Documentation](https://github.com/remy/nodemon#nodemon)
+- [MongoDB Documentation](https://github.com/mongodb/node-mongodb-native)
+- [Redis Documentation](https://github.com/redis/node-redis)
 - [Bull Library](https://github.com/OptimalBits/bull)
 - [Image Thumbnail Library](https://www.npmjs.com/package/image-thumbnail)
 - [Mime-Types Library](https://www.npmjs.com/package/mime-types)
